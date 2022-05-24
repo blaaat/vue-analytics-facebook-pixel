@@ -7,7 +7,7 @@ A small wrapper around fbq. This package integrates Facebook pixel into your `Vu
 ## Installation
 
 ```bash
-npm install vue-facebook-pixel
+npm install @blaaat/vue-facebook-pixel
 ```
 
 Also, this library requires installing [Facebook Pixel API](https://developers.facebook.com/docs/ads-for-websites/tag-api/).
