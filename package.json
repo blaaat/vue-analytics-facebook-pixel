@@ -1,6 +1,6 @@
 {
   "name": "@blaaat/vue-facebook-pixel",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "description": "A Facebook Pixel API wrapper",
   "author": "sobolevn <mail@sobolevn.me>",
   "private": false,
